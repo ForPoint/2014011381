@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">屏幕</string>
+    <string name="action_settings">设置</string>
+    <string name="cross_screen">横屏</string>
+    <string name="vertical_screen">竖屏</string>
+
+</resources>
