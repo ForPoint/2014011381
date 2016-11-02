@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_851d64546cb3e511200d36271580b147f4e0e91b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_2fb94cb29a1a1cd842b2e1534ee173abb7b08ba4\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_2f3a4564f901ddb19f9e01094e8d4de24bb39997\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_99ed0a3430a44adff7d5ca8d0e66026a4925b89b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_0edbfc117a21541574ea6a78e9fa23d9334c66e2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_353a88c7ef29a354794d1425f9cf6990a17fdca4\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ccf0daae3df26b1bfc43fed94f017c422628aa6a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_94b47b4a9d007504ad77e1a5505a98c5addea8bd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6c834f28bdd00b8a8748fc303c0ed5be39805a12\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\SDk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_fc3a908ef8f55d9fd42f9468512d680208526eda\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_3af903ae4da1da0a4450f78980837abadb83cf7d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_00a927497b564089dafd0117b9ea24fce0bfcfaa\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="68444641584f825e97504e6507081f4dca2df24b">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55418785472dadffd6c25683086a488c67450fad\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_5db481690684cd473cd0fbb121ae40c9319ffe6b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_f306be49a62e394dd2337fcc3597218b147e7d28\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_26713d48b829c60106928bfdadbef4041c7e7925\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d204b4f7d9f19b7b9a34ea1fc830320c1432c1d9">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_28a486e69094f85c1fa80517927d214979090950\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_4c1ec1a376d3e50d310a6a630d09d41ac44b795c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Android\AndroidCode\OutSideCard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_08fabc18f91b04de89e0d61703eb8e417a568980\classes.dex" />
+    </item>
+
+</items>
